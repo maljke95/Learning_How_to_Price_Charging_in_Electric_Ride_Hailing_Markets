@@ -1,6 +1,6 @@
 # Learning How to Price Charging in Electric Ride-Hailing Markets
 
-**The 62nd IEEE Conference on Decision and Control**, Marina Bay Sands, Singapore, 13-15 December 2023.
+**The 62nd IEEE Conference on Decision and Control (CDC 2023)**, Marina Bay Sands, Singapore, 13-15 December 2023.
 
 **Abstract:** With the electrification of ride-hailing fleets, there
 will be a need to incentivize where and when the ride-hailing
